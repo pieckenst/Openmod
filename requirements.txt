@@ -37,3 +37,4 @@ matplotlib
 lxml
 html5lib
 humanize
+h2>=4.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
